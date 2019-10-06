@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!-- https://developer.xamarin.com/guides/android/user_interface/material-theme/-->
+  <color name="my_red">#E74C3C</color>
+</resources>

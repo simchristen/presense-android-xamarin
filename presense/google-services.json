@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "894100290509",
+    "firebase_url": "https://presense-2409a.firebaseio.com",
+    "project_id": "presense-2409a",
+    "storage_bucket": "presense-2409a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894100290509:android:ec15693cfad07790",
+        "android_client_info": {
+          "package_name": "presense.presense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894100290509-1cvap92nargmgfv9giuko24o85fm43bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEX_vOqp_oBZqmfCbSpxhg_7DTH5cbd3I"
+        },
+        {
+          "current_key": "AIzaSyDukhPBI6tE28xzybz3WB1g3rJ2ShGG6eY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

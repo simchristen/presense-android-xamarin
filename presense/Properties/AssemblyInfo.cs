@@ -32,12 +32,10 @@ using Android.App;
 // simonch
 #if DEBUG
 [assembly: Application(Debuggable = true,
-                        Label = "presense",
-                        Theme = "@android:style/Theme.NoTitleBar.Fullscreen")]
+                        Label = "presense Debug")]
 #else
 [assembly: Application(Debuggable = false,
-                        Label = "presense",
-                        Theme = "@android:style/Theme.NoTitleBar.Fullscreen")]
+                        Label = "presense")]
 #endif
 
 //#if DEBUG
